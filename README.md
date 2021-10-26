@@ -1,2 +1,2 @@
-# NumSemigroupsFMSD
+# CambioAestrNombre
 Assignment about Numerical Semigroups.
