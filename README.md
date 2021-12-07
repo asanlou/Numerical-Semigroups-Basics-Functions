@@ -1,5 +1,5 @@
 # Numerical Semigroups Python's Functions
-Assignment about Numerical Semigroups (NS). We were looking a speedy way for building an NS helped by itertools package in python.
+Assignment about Numerical Semigroups (NS). We were looking a speedy way for building a NS helped by itertools package in python.
 
 We are spanish speakers, so the assigment is in spanish as well. However, here's a brief description of each function.
 We are sorry, but remeber, code speaks itself.
