@@ -1,5 +1,5 @@
 # Numerical Semigroups Python's Functions
-We were looking a speedy way for building a NS. Finally, we got this, helped by itertools package in Python.
+We were looking a speedy way for building a numerical semigroup (NS). Finally, we got this, helped by itertools package in Python.
 
 We are spanish speakers, so the assigment is in spanish as well. However, here's a brief description of each function.
 We are sorry, but remeber, code speaks itself.
