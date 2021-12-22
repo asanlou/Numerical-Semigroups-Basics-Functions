@@ -1,10 +1,10 @@
 # Numerical Semigroups Python's Functions
-We were looking a speedy way for building a numerical semigroup (NS). Finally, we got this, helped by itertools package in Python.
+We were looking a speedy way of building a numerical semigroup (NS). Finally, we got this, helped by itertools package in Python.
 
 We are spanish speakers, so the assigment is in spanish as well. However, here's a brief description of each function. 
-We are sorry, but remeber, code speaks itself.
+We are sorry, but remenber, code speaks for itself.
 
-Using geners of an numerical semigroups, we defined using itertools the following functions:
+Using geners of a numerical semigroup, we defined using itertools the following functions:
 - EsSN(geners) -> Verify if geners form a numerical semigroup.
 - PerteSN(x,geners) -> Verify if x belongs to the NS formed by geners.
 - GenInfinitoSN(geners,ini=0) -> Returns an infinite NS elements' iterator started in ini.
